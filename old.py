@@ -1,5 +1,4 @@
 #! /usr/local/bin/python3
-
 import sys
 
 out_of = int(sys.argv[1])
